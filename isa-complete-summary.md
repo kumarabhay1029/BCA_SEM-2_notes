@@ -1,7 +1,5 @@
 # 🏗️ Complete Understanding: ISA, Assembler, and Compiler (MCS-202)
 
-You’ve asked great questions so far! Let’s put it all together for a crystal-clear understanding. 😊
-
 ---
 
 ## 1. What is ISA (Instruction Set Architecture)?
@@ -92,6 +90,3 @@ There are two main types of ISA based on instruction complexity:
 > **ISA** is the “language” and rules for the CPU; **assembler** and **compiler** are the translators that help your programs speak that language to the computer! 🖥️🔗📝
 
 ---
-
-#### 😊 Any more questions or doubts about ISA, assembler, or compiler?  
-Ask away, or tell me to move on to the next topic in MCS-202!

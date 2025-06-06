@@ -172,7 +172,7 @@ Pipeline hazards are problems that prevent the next instruction in the pipeline 
 ---
 
 ## 🙋‍♂️ Questions? Doubts?  
-Ask your teacher (that’s me! 😄) anytime for clarifications or examples.
+Ask in your group 
 
 ---
 
